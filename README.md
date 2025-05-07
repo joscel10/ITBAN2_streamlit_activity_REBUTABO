@@ -12,6 +12,7 @@ This Streamlit app allows users to upload a CSV file, preview it, and apply filt
 
 
 ![image alt](https://github.com/joscel10/ITBAN2_streamlit_activity_REBUTABO/blob/32f9ed84dbeaee0833249d19f308012d9c28d914/Screenshot%20(239).png)
+![image alt](https://github.com/joscel10/ITBAN2_streamlit_activity_REBUTABO/blob/4b183bf8c1268aebfcc6192de338a34cb538b314/activity3_rebutabo.png)
 
 ACTIVITY 3
 This Streamlit app is an interactive educational tool that explains key topics in Data Warehousing and Enterprise Data Management, including ETL, integration, governance, and optimization. Users can explore each topic from the sidebar, view diagrams, and access extended content through tabs on real-time analytics, cloud warehousing, and data archiving.
