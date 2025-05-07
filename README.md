@@ -31,6 +31,7 @@ This Streamlit app connects to a MySQL database named "store" using SQLAlchemy a
 
 
 ![image alt](https://github.com/joscel10/ITBAN2_streamlit_activity_REBUTABO/blob/7237e058065e90209e212b3e2ee6ec531d273952/Screenshot%20(246).png)
+![image alt](https://github.com/joscel10/ITBAN2_streamlit_activity_REBUTABO/blob/37611cf46857b9005bb6cf784112e8f313a46327/activity6_rebutabo.png)
 
 ACTIVITY 6
 This Streamlit app accesses your webcam to display live video and lets you apply real-time filters such as grayscale, blur, Canny edge detection, brightness/contrast adjustment, and sepia. You can take a snapshot of the filtered frame, which is saved locally with a timestamped filename.
