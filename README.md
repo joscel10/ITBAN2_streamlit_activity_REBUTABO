@@ -5,6 +5,7 @@ ACTIVITY 1
 This Streamlit app collects an email and a 4-digit PIN, then validates both using regular expressions and simple checks. If the inputs are valid, it shows a success message and displays the email with a masked PIN; otherwise, it shows an error.
 
 ![image alt](https://github.com/joscel10/ITBAN2_streamlit_activity_REBUTABO/blob/c7011685574489229069bf30821ef51ec9d24549/Screenshot%20(237).png)
+![image alt](https://github.com/joscel10/ITBAN2_streamlit_activity_REBUTABO/blob/6f88ce2e27789f5b255ed6b8ec8542bb6b7f7967/activity2_rebutabo.png)
 
 ACTIVITY 2
 This Streamlit app allows users to upload a CSV file, preview it, and apply filters based on column values, numeric ranges, and missing data handling. It also provides options to view full data, display summary statistics, and download the filtered results. If no file is uploaded, it shows a warning message.
