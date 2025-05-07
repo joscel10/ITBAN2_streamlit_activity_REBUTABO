@@ -1,3 +1,5 @@
+![image alt](https://github.com/joscel10/ITBAN2_streamlit_activity_REBUTABO/blob/aea1e810da0bae9e5e8a3f075a11ab936171f32a/Screenshot%20(236).png)
+
 ACTIVITY 1
 This Streamlit app collects an email and a 4-digit PIN, then validates both using regular expressions and simple checks. If the inputs are valid, it shows a success message and displays the email with a masked PIN; otherwise, it shows an error.
 
