@@ -29,5 +29,8 @@ This Streamlit app is a COVID-19 dashboard that lets users select a country and 
 ACTIVITY 5
 This Streamlit app connects to a MySQL database named "store" using SQLAlchemy and sets up a simple admin login system via the sidebar. It authenticates users by checking if the entered username and password match the predefined credentials ("admin" and "store123").
 
+
+![image alt](https://github.com/joscel10/ITBAN2_streamlit_activity_REBUTABO/blob/7237e058065e90209e212b3e2ee6ec531d273952/Screenshot%20(246).png)
+
 ACTIVITY 6
 This Streamlit app accesses your webcam to display live video and lets you apply real-time filters such as grayscale, blur, Canny edge detection, brightness/contrast adjustment, and sepia. You can take a snapshot of the filtered frame, which is saved locally with a timestamped filename.
