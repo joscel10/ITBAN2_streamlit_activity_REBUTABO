@@ -18,6 +18,7 @@ ACTIVITY 3
 This Streamlit app is an interactive educational tool that explains key topics in Data Warehousing and Enterprise Data Management, including ETL, integration, governance, and optimization. Users can explore each topic from the sidebar, view diagrams, and access extended content through tabs on real-time analytics, cloud warehousing, and data archiving.
 
 ![image alt](https://github.com/joscel10/ITBAN2_streamlit_activity_REBUTABO/blob/46a142bbea144ef4814c23ef961e44d4b92a405d/Screenshot%20(242).png)
+![image alt](https://github.com/joscel10/ITBAN2_streamlit_activity_REBUTABO/blob/499f7ed74ec83714f4b8972baa88e003b3b79d9c/activity4_rebutabo.png)
 
 ACTIVITY 4
 This Streamlit app is a COVID-19 dashboard that lets users select a country and view the last 30 days of cases, deaths, and recoveries using live data. It provides daily stats, trends, moving averages, and visual summaries through line, bar, and pie charts. Users can also explore raw data and cumulative figures interactively.
