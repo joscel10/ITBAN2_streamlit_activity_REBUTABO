@@ -24,6 +24,7 @@ ACTIVITY 4
 This Streamlit app is a COVID-19 dashboard that lets users select a country and view the last 30 days of cases, deaths, and recoveries using live data. It provides daily stats, trends, moving averages, and visual summaries through line, bar, and pie charts. Users can also explore raw data and cumulative figures interactively.
 
 ![image alt](https://github.com/joscel10/ITBAN2_streamlit_activity_REBUTABO/blob/8166fe3973a26dc407d3ee13b3883cd29716a364/Screenshot%20(244).png)
+![image alt](https://github.com/joscel10/ITBAN2_streamlit_activity_REBUTABO/blob/d58bd21b774520023440fff3cae2415687a4480a/activity5_rebutabo.png)
 
 ACTIVITY 5
 This Streamlit app connects to a MySQL database named "store" using SQLAlchemy and sets up a simple admin login system via the sidebar. It authenticates users by checking if the entered username and password match the predefined credentials ("admin" and "store123").
