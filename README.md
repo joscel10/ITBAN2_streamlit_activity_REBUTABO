@@ -10,6 +10,9 @@ This Streamlit app collects an email and a 4-digit PIN, then validates both usin
 ACTIVITY 2
 This Streamlit app allows users to upload a CSV file, preview it, and apply filters based on column values, numeric ranges, and missing data handling. It also provides options to view full data, display summary statistics, and download the filtered results. If no file is uploaded, it shows a warning message.
 
+
+![image alt](https://github.com/joscel10/ITBAN2_streamlit_activity_REBUTABO/blob/32f9ed84dbeaee0833249d19f308012d9c28d914/Screenshot%20(239).png)
+
 ACTIVITY 3
 This Streamlit app is an interactive educational tool that explains key topics in Data Warehousing and Enterprise Data Management, including ETL, integration, governance, and optimization. Users can explore each topic from the sidebar, view diagrams, and access extended content through tabs on real-time analytics, cloud warehousing, and data archiving.
 
